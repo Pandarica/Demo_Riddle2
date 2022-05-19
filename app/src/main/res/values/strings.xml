@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Demo Riddle</string>
+    <string name="question_1">Question 1 \n
+        This word has the same \n
+        pronounciation even after \n
+        removing 4 letters from it
+    </string>
+    <string name="question_2">Question 2 \n
+        How do you make 1 disappear?</string>
+</resources>
